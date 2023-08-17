@@ -15,11 +15,11 @@ int main(int argc, char* argv[])
 	int code = ioctl(cdrom, CDROMEJECT);
 	if(code == 0)
 	{
-		close(cdrom);
 		printf("Enjoy your free cup holder!\n");
 	}
 	else if(code == -1 && errno == EBADF)
 	{
 		printf("Your computer has no cup holder!!!\n");
 	}
+	close(cdrom);
 }
