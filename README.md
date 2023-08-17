@@ -17,6 +17,9 @@ This should work for any other distro, and even other *nix systems (minus apt)
 1. Build it
 2. Run `sudo make install`
 
+This should work for any other distro, and even other *nix systems
 ## Uninstallation
 ### Debian:
 1. Run `sudo make uninstall`
+
+This should work for any other distro, and even other *nix systems
