@@ -18,4 +18,5 @@ This should work for any other distro, and even other *nix systems (minus apt)
 2. Run `sudo make install`
 
 ## Uninstallation
+### Debian:
 1. Run `sudo make uninstall`
