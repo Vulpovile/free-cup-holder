@@ -2,8 +2,8 @@
 Very useful utility.
 
 ## Required packages
--GCC
--Make
+- GCC
+- Make
 
 ## Build Instructions
 ### Debian:
