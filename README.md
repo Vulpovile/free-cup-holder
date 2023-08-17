@@ -9,6 +9,7 @@ Very useful utility.
 ### Debian:
 1. Run `sudo apt-get install make gcc`
 2. Run `make all`
+
 This should work for any other distro, and even other *nix systems (minus apt)
 
 ## Installation
